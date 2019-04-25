@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\windowsFirst\windowsFirst\bin\Debug\windowsFirst.exe.config
+C:\Users\User\source\repos\windowsFirst\windowsFirst\bin\Debug\windowsFirst.exe
+C:\Users\User\source\repos\windowsFirst\windowsFirst\bin\Debug\windowsFirst.pdb
+C:\Users\User\source\repos\windowsFirst\windowsFirst\obj\Debug\windowsFirst.csprojAssemblyReference.cache
+C:\Users\User\source\repos\windowsFirst\windowsFirst\obj\Debug\windowsFirst.Properties.Resources.resources
+C:\Users\User\source\repos\windowsFirst\windowsFirst\obj\Debug\windowsFirst.csproj.GenerateResource.cache
+C:\Users\User\source\repos\windowsFirst\windowsFirst\obj\Debug\windowsFirst.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\windowsFirst\windowsFirst\obj\Debug\windowsFirst.exe
+C:\Users\User\source\repos\windowsFirst\windowsFirst\obj\Debug\windowsFirst.pdb
+C:\Users\User\source\repos\windowsFirst\windowsFirst\obj\Debug\windowsFirst.Form1.resources
